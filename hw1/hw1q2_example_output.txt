@@ -1,0 +1,15 @@
+One-Choice: num_words = 114, size = 10000, avg_trials = 1.56156
+Multi-Choice (n = 2): num_words = 114, size = 10000, avg_trials = 1.00284
+Multi-Choice (n = 3): num_words = 114, size = 10000, avg_trials = 1.00004
+Multi-Choice (n = 4): num_words = 114, size = 10000, avg_trials = 1.0
+Multi-Choice (n = 5): num_words = 114, size = 10000, avg_trials = 1.0
+One-Choice: num_words = 114, size = 5000, avg_trials = 2.46288
+Multi-Choice (n = 2): num_words = 114, size = 5000, avg_trials = 1.01044
+Multi-Choice (n = 3): num_words = 114, size = 5000, avg_trials = 1.00008
+Multi-Choice (n = 4): num_words = 114, size = 5000, avg_trials = 1.0
+Multi-Choice (n = 5): num_words = 114, size = 5000, avg_trials = 1.0
+One-Choice: num_words = 114, size = 2000, avg_trials = 9.7038
+Multi-Choice (n = 2): num_words = 114, size = 2000, avg_trials = 1.07124
+Multi-Choice (n = 3): num_words = 114, size = 2000, avg_trials = 1.0024
+Multi-Choice (n = 4): num_words = 114, size = 2000, avg_trials = 1.00012
+Multi-Choice (n = 5): num_words = 114, size = 2000, avg_trials = 1.0

@@ -1,0 +1,25 @@
+#### Input
+ipssm$pissii
+
+#### WaveletTree
+BitVector: 011110101100
+Sequence: ipssm$pissii
+Alphabet: ['$', 'i', 'm', 'p', 's']
+  Left: BitVector: 10111
+Sequence: i$iii
+Alphabet: ['$', 'i']
+  Left: Leaf($)
+  Right: Leaf(i)
+  Right: BitVector: 1110111
+Sequence: pssmpss
+Alphabet: ['m', 'p', 's']
+  Left: Leaf(m)
+  Right: BitVector: 011011
+Sequence: psspss
+Alphabet: ['p', 's']
+  Left: Leaf(p)
+  Right: Leaf(s)
+{'$': '00', 'i': '01', 'm': '10', 'p': '110', 's': '111'}
+
+#### ReverseBWT
+mississippi

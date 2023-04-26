@@ -1,0 +1,10 @@
+A, B, g
+B, C, a
+C, D, t
+D, E, t
+E, F, a
+E, G, a
+F, H, c
+G, H, t
+H, I, a
+I, J, t

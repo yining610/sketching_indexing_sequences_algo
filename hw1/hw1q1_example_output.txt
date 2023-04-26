@@ -1,0 +1,8 @@
+chaining: example_input.txt, 100, [4, 3, 3, 5, 4, 5, 4, 3, 4, 4], 3.9
+probing:  example_input.txt, 100, [2.2, 2.2, 2.0, 2.8, 2.8, 3.2, 2.8, 2.7, 2.0, 2.4], 2.5
+chaining: example_input.txt, 150, [4, 3, 3, 3, 3, 3, 3, 4, 4, 4], 3.4
+probing:  example_input.txt, 150, [0.6, 0.7, 0.8, 0.6, 0.6, 0.8, 0.6, 0.8, 0.6, 0.5], 0.7
+chaining: example_input.txt, 200, [3, 3, 3, 3, 3, 4, 4, 3, 3, 3], 3.2
+probing:  example_input.txt, 200, [0.4, 0.3, 0.2, 0.3, 0.5, 0.5, 0.5, 0.3, 0.3, 0.3], 0.4
+chaining: example_input.txt, 500, [2, 2, 2, 2, 2, 3, 2, 2, 3, 2], 2.2
+probing:  example_input.txt, 500, [0.1, 0.1, 0.1, 0.2, 0.1, 0.1, 0.2, 0.1, 0.1, 0.1], 0.1
